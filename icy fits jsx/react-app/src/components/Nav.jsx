@@ -58,6 +58,12 @@ export default function Nav(){
                       </div>
                   </div>
                 </li>
+                <li className="has-child">
+                  <a href="#">brands <span className="icon-small"><i className="ri-arrow-down-s-line"/></span></a>
+                  <div className="mega">
+                    <div className="flexcol">
+                      <h4>Brands</h4>
+                      <ul>
                 <li><a href="#">blog</a></li>
                 <li><a href="#">contact</a></li>
               </ul>
