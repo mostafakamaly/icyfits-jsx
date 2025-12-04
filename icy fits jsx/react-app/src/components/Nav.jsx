@@ -19,7 +19,7 @@ export default function Nav(){
                       <h4>Clothing</h4>
                       <ul>
                         <li><a href="#">Tops</a></li>
-                        <li><a href="#">Dresses</a></li>
+                        <li><a href="#">Bottoms</a></li>
                         <li><a href="#">Outerwear</a></li>
                       </ul>
                     </div>
